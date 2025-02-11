@@ -27,3 +27,19 @@ body {
     background-color: black;
     
 }
+
+
+@media (max-width: 768px) {
+    .menu {
+        font-size: 10px; /* Ajusta o tamanho da fonte do menu */
+    }
+
+    .img-casal {
+        width: 50%; /* Aumenta a largura da imagem do casal para caber melhor */
+    }
+
+    .menu-p {
+        font-size: 24px; /* Ajusta o tamanho da fonte do menu-p */
+        padding: 10px; /* Adiciona um pouco de espaço dentro do menu */
+    }
+}
